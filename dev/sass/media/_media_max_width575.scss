@@ -1,0 +1,47 @@
+@media screen and (max-width: 575px) {
+    .information {
+        p {
+        margin: 20px auto 20px;
+        text-align: justify;
+        }
+    }
+    .information_img {
+        margin: 0 auto;
+        width: 275px;
+
+        img {
+            width: 100%
+        }
+    }
+
+    footer {
+        h4 {
+            font-size: 16px;
+        }
+    }
+}
+
+
+@media screen and (max-width: 530px) {
+    .slider-template {
+        .slide-list {
+            margin-bottom: 31px;
+        }
+    }
+    .slide-box {
+        margin: 0 auto;
+    }
+
+    .slide-img-box {
+        img {
+            min-height: 230px;
+        }
+    }
+
+    .slide-buttons {
+        .btn {
+            padding: 13px 5px;
+        }
+    }
+
+}
